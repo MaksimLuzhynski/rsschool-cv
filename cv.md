@@ -16,3 +16,5 @@
 - Work well in team. Easily study, highly responsible, punctual, sociable.
 ## **Education.**
 - 2002-2007 - Belarusian State University of Informatics and Radioelectronics.
+## **English level.**
+- Pre-Intermediate.
