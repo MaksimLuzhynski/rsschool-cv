@@ -14,3 +14,5 @@
 - Knowledge of Windows, MacOS, iOS, Android.
 - Good analytical ability. 
 - Work well in team. Easily study, highly responsible, punctual, sociable.
+## **Education.**
+- 2002-2007 - Belarusian State University of Informatics and Radioelectronics.
